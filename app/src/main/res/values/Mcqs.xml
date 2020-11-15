@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Mcqs">
+        <item>Name of the screen that recognizes touch input is :</item>
+        <item>Recog screen</item>
+        <item>Point Screen</item>
+        <item>Touch Screen</item>
+        <item>Android Screen</item>
+        <item>Touch Screen</item>
+        <item>Identify the device through which data and instructions are entered into a computer:</item>
+        <item>Software</item>
+        <item>Output device</item>
+        <item>Input device</item>
+        <item>Memory</item>
+        <item>Input device</item>
+        <item>Computer Moniter is also known as :</item>
+        <item>DVU</item>
+        <item>UVD</item>
+        <item>VDU</item>
+        <item>CCTV</item>
+        <item>VDU</item>
+        <item>Arrange in ascending order the units of memory TB, KB, GB, MB:</item>
+        <item>TB>MB>GB>KB</item>
+        <item>MB>GB>TB>KB</item>
+        <item>TB>GB>MB>KB</item>
+        <item>GB>MB>KB>TB</item>
+        <item>TB>GB>MB>KB</item>
+        <item>Which one of these stores more data than a DVD ?</item>
+        <item>CD Rom</item>
+        <item>Floppy</item>
+        <item>Blue Ray Disk</item>
+        <item>Red Ray Disk</item>
+        <item>Blue Ray Disk</item>
+        <item>The output shown on the computer monitor is called:</item>
+        <item>VDU</item>
+        <item>Hard Copy</item>
+        <item>Soft Copy</item>
+        <item>Screen Copy</item>
+        <item>Soft Copy</item>
+        <item>Eight Bits make up a:</item>
+        <item>byte</item>
+        <item>megabyte</item>
+        <item>kilobyte</item>
+        <item>None</item>
+        <item>byte</item>
+        <item>Which one is the result of the output given by a computer:</item>
+        <item>Data</item>
+        <item>Istruction</item>
+        <item>Information</item>
+        <item>Excursion</item>
+        <item>Information</item>
+        <item>Which one of these also known as read/write memory:</item>
+        <item>ROM</item>
+        <item>RAM</item>
+        <item>DVD</item>
+        <item>Hard Disk</item>
+        <item>RAM</item>
+        <item>The printed output from a computer is called:</item>
+        <item>Copy</item>
+        <item>Copy</item>
+        <item>Hard Copy</item>
+        <item>Paper</item>
+        <item>Hard Copy</item>
+    </string-array>
+</resources>
